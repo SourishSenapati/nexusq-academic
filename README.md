@@ -112,10 +112,10 @@ Refer to `INSTRUCTIONS.md` for detailed deployment guides.
 
 ## Roadmap
 
-*   [ ] **Q1 2026**: Federated Learning Protocol for cross-university data sharing.
-*   [ ] **Q2 2026**: Native iOS/Android clients with offline-first sync.
-*   [ ] **Q3 2026**: "Professor Avatar" module for voice-cloned lecture synthesis.
-*   [ ] **Q4 2026**: Institutional API for LMS integration (Canvas/Blackboard/Moodle).
+*   [ ] **Q1 2026**: Federated Learning (Privacy-preserved multi-org resource sharing).
+*   [ ] **Q2 2026**: Mobile App (React Native) for offline access.
+*   [ ] **Q3 2026**: Regional Language Support (Hindi, Bengali, Tamil).
+*   [ ] **Q4 2026**: AI Tutor (Chat with Exam Paper) and Institutional API integration.
 
 ## Contributing
 
