@@ -1,0 +1,21 @@
+
+{
+  "IN": {
+    "currency": "INR",
+    "symbol": "₹",
+    "plans": {
+      "semester": { "price": 199, "label": "₹199 / month" },
+      "topper": { "price": 1499, "label": "₹1499 / year" },
+      "micro": { "price": 49, "label": "₹49 / subject" }
+    }
+  },
+  "DEFAULT": {
+    "currency": "USD",
+    "symbol": "$",
+    "plans": {
+      "semester": { "price": 9.99, "label": "$9.99 / month" },
+      "topper": { "price": 89, "label": "$89 / year" },
+      "micro": { "price": 2.99, "label": "$2.99 / subject" }
+    }
+  }
+}
